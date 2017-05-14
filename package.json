@@ -1,0 +1,23 @@
+{
+  "name": "3-blog-front-to-back",
+  "version": "1.0.0",
+  "description": "MEAN stack auth app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "tinymce": "^4.6.0"
+  },
+  "author": "DiDumbldr",
+  "license": "ISC"
+}
